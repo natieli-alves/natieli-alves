@@ -17,14 +17,14 @@
 </p>
 
 #### Formação
-🌸 ETEC – Técnico em Informática para Internet  
-💗 UEMS – Bacharelado Sistemas de Informação (Cursando 7 semestre)
+ETEC – Técnico em Informática para Internet  
+UEMS – Bacharelado Sistemas de Informação (Cursando 7 semestre)
 
 ---
 
-## Contato
-💗 email: natielimca@gmail.com
+#### Contato
+email: natielimca@gmail.com
 
 ---
 
-🌷 *“Crescer também pode ser leve e bonito.”*
+🌷 *“Tudo depende do tipo de lente que você utiliza para ver as coisas.”*
