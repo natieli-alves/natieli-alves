@@ -15,12 +15,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=rose_pine)
+![Stats](https://github-readme-stats.vercel.app/api?username=natieli-alves&show_icons=true&theme=rose_pine)
 
 ---
 
 ## 🌙 Streak
-![Streak](https://streak-stats.demolab.com?user=SEUUSUARIO&theme=rose_pine)
+![Streak](https://streak-stats.demolab.com?user=natieli-alves&theme=rose_pine)
 
 ---
 
@@ -36,3 +36,5 @@
 ---
 
 🌷 *“Crescer também pode ser leve e bonito.”*
+
+🔗 [Meu GitHub](https://github.com/natieli-alves)
