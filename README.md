@@ -4,7 +4,6 @@
 
 ---
 
-
 ![Streak](https://streak-stats.demolab.com?user=natieli-alves&theme=rose_pine)
 
 ---
@@ -17,13 +16,13 @@
   <img src="https://img.shields.io/badge/MySQL-ffc0cb?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-## 🎓 Formação
+#### Formação
 🌸 ETEC – Técnico em Informática para Internet  
 💗 UEMS – Bacharelado Sistemas de Informação (Cursando 7 semestre)
 
 ---
 
-## 💌 Contato
+## Contato
 💗 email: natielimca@gmail.com
 
 ---
