@@ -1,17 +1,13 @@
-# 🌸 Olá! Eu sou a Natieli
+## 🌸 Olá! Eu sou a Natieli
 
-## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=natieli-alves&show_icons=true&theme=rose_pine)
 
 ---
 
-## 🌙 Streak
+
 ![Streak](https://streak-stats.demolab.com?user=natieli-alves&theme=rose_pine)
 
 ---
-
------
-## 💻 Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/Python-ffc0cb?style=for-the-badge&logo=python&logoColor=white">
