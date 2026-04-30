@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🌸 Olá! Eu sou a Natieli
 
-<!--
-**natieli-alves/natieli-alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💗 Estudante de Sistemas de Informação  
+🌷 Apaixonada por tecnologia e organização  
+✨ Foco em aprender e evoluir todos os dias  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias
+💗 Python  
+🌸 Java  
+🌷 HTML / CSS  
+✨ MySQL  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=rose_pine)
+
+---
+
+## 🌙 Streak
+![Streak](https://streak-stats.demolab.com?user=SEUUSUARIO&theme=rose_pine)
+
+---
+
+## 🎓 Formação
+🌸 IFMS – Técnico em Informática  
+💗 UEMS – Sistemas de Informação  
+
+---
+
+## 💌 Contato
+💗 email: seuemail@exemplo.com  
+
+---
+
+🌷 *“Crescer também pode ser leve e bonito.”*
