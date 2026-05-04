@@ -1,7 +1,9 @@
 ## 🌸 Olá! Eu sou a Natieli
 
-![Stats]([https://github-readme-stats.vercel.app/api?username=natieli-alves&show_icons=true&theme=rose_pine](https://github-readme-stats.vercel.app/api?username=natieli-alves&show_icons=true&theme=rose_pine))
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=natieli-alves&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natieli-alves&layout=compact&theme=tokyonight" height="170"/>
+</p>
 ---
 
 ![Streak](https://streak-stats.demolab.com?user=natieli-alves&theme=rose_pine)
