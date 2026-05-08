@@ -1,5 +1,7 @@
 ## 🌸 Olá! Eu sou a Nati
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natieli-alves&layout=compact&theme=rose_pine)
+
 ![Streak](https://streak-stats.demolab.com?user=natieli-alves&theme=rose_pine)
 
 ![Contribution Grid](https://github-readme-activity-graph.vercel.app/graph?username=natieli-alves&theme=rose-pine)
