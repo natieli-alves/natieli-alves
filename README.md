@@ -1,5 +1,7 @@
 ## 🌸 Olá! Eu sou a Natieli
-
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natieli-alves&show_icons=true&theme=rose_pine)
+---
 ![Streak](https://streak-stats.demolab.com?user=natieli-alves&theme=rose_pine)
 
 ---
