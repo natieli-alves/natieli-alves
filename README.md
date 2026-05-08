@@ -1,4 +1,4 @@
-## 🌸 Olá! Eu sou a Natieli
+## 🌸 Olá! Eu sou a Nati
 
 ![Streak](https://streak-stats.demolab.com?user=natieli-alves&theme=rose_pine)
 
