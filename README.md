@@ -2,6 +2,7 @@
 
 ![Streak](https://streak-stats.demolab.com?user=natieli-alves&theme=rose_pine)
 
+![Contribution Grid](https://github-readme-activity-graph.vercel.app/graph?username=natieli-alves&theme=rose-pine)
 ---
 
 <p>
