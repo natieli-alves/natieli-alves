@@ -1,8 +1,69 @@
 ## 🌸 Olá! Eu sou a Nati
 
+<div align="center">
+
 ![Streak](https://streak-stats.demolab.com?user=natieli-alves&theme=rose_pine)
 
 ![Contribution Grid](https://github-readme-activity-graph.vercel.app/graph?username=natieli-alves&theme=rose-pine)
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="180" bgcolor="#1f1d2e">
+
+### ⭐
+# 22
+<sub>Stars</sub>
+
+</td>
+
+<td align="center" width="180" bgcolor="#1f1d2e">
+
+### ⚙️
+# 80
+<sub>Commits</sub>
+
+</td>
+
+<td align="center" width="180" bgcolor="#1f1d2e">
+
+### 🔀
+# 14
+<sub>Pull Requests</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" bgcolor="#1f1d2e">
+
+### 🐞
+# 20
+<sub>Issues</sub>
+
+</td>
+
+<td align="center" bgcolor="#1f1d2e">
+
+### ⏰
+# 69h
+<sub>Hours</sub>
+
+</td>
+
+<td align="center" bgcolor="#1f1d2e">
+
+### 🔥
+# 0 days
+<sub>Streak</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 <p>
@@ -13,13 +74,13 @@
   <img src="https://img.shields.io/badge/MySQL-ffc0cb?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-#### Formação
+#### 🎓 Formação
 ETEC – Técnico em Informática para Internet  
-UEMS – Bacharelado Sistemas de Informação (Cursando 7 semestre)
+UEMS – Bacharelado em Sistemas de Informação (Cursando 7º semestre)
 
 ---
 
-#### Contato
+#### 📫 Contato
 email: natielimca@gmail.com
 
 ---
